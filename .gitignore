@@ -44,3 +44,4 @@ Thumbs.db
 /pnpm-lock.yaml
 /projects/angular-table/.npmrc
 !/projects/angular-table/.npmrc
+/projects/angular-table/.npmrc
